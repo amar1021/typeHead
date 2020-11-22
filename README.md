@@ -1,6 +1,6 @@
 # Custom Search engine
 
-this project is about Search engine(typehead) using Spring boot and angular 10
+this project is about Search engine(typehead) using Spring boot and angular
 
 ## What You Need before installation
 
@@ -18,7 +18,7 @@ IntelliJ IDEA
 
 ## Installation
 
-Type goto Java/acoustic folder, Open command prompt and type bellow command to run application.
+Goto Java/acoustic folder, Open command prompt and type bellow command to run application.
 
 ```bash
 mvn clean install spring-boot:run
@@ -31,6 +31,8 @@ http://localhost:8481/
 ```
 
 Note: Ng folder contains angular code for referance perpose only. you can run Angular code separate with BE code.
+
+## Screenshots
 
 ![alt text](https://github.com//amar1021/typeHead/blob/main/Screen_1.PNG?raw=true)
 
