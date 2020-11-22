@@ -2,7 +2,7 @@
 
 this project is about Search engine(typehead) using Spring boot and angular 10
 
-##What You Need before installation
+## What You Need before installation
 
 A favorite text editor or IDE
 
