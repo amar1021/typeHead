@@ -31,3 +31,7 @@ http://localhost:8481/
 ```
 
 Note: Ng folder contains angular code for referance perpose only. you can run Angular code separate with BE code.
+
+![alt text](https://github.com//amar1021/typeHead/blob/main/Screen_1.PNG?raw=true)
+
+![alt text](https://github.com//amar1021/typeHead/blob/main/Screen_2.PNG?raw=true)
