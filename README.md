@@ -5,8 +5,11 @@ this project is about Search engine(typehead) using Spring boot and angular
 ## Library Use
 
 Spring Boot
+
 HSQLDB (In memory DB)
+
 Angular 10
+
 Typehead library from Angular Material
 
 ## What You Need before installation
