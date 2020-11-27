@@ -1,4 +1,4 @@
-package com.ecoustic.autocomplete.acoustic.search;
+package com.typehead.autocomplete.typehead.search;
 
 /**
  * @author A734903
