@@ -28,7 +28,7 @@ IntelliJ IDEA
 
 ## Installation
 
-Goto Java/acoustic folder, Open command prompt and type bellow command to run application.
+Goto Java/typeHead folder, Open command prompt and type bellow command to run application.
 
 ```bash
 mvn clean install spring-boot:run
